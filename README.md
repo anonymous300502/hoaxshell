@@ -11,6 +11,7 @@
  - Example with Hoaxshell -> [youtube.com/watch?v=iElVfagdCD4](https://www.youtube.com/watch?v=iElVfagdCD4)
  - Example with common powershell revshell templates -> [youtube.com/watch?v=3HddKylkRzM](https://www.youtube.com/watch?v=3HddKylkRzM)
 
+With proper obfuscation technique the http payload is working on fully patched version of win 11 with windows defender up and running as of 29th March 2024 18:00 IST 
 ## Purpose
 hoaxshell is a Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell, based on the following concept:  
 
